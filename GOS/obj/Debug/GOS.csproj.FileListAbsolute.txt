@@ -1,0 +1,9 @@
+D:\Diplom\Web\GOS\GOS\bin\Debug\GOS.exe.config
+D:\Diplom\Web\GOS\GOS\bin\Debug\GOS.exe
+D:\Diplom\Web\GOS\GOS\bin\Debug\GOS.pdb
+D:\Diplom\Web\GOS\GOS\obj\Debug\GOS.csprojResolveAssemblyReference.cache
+D:\Diplom\Web\GOS\GOS\obj\Debug\GOS.Form1.resources
+D:\Diplom\Web\GOS\GOS\obj\Debug\GOS.Properties.Resources.resources
+D:\Diplom\Web\GOS\GOS\obj\Debug\GOS.csproj.GenerateResource.Cache
+D:\Diplom\Web\GOS\GOS\obj\Debug\GOS.exe
+D:\Diplom\Web\GOS\GOS\obj\Debug\GOS.pdb
